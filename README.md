@@ -8,6 +8,13 @@ A simple Linux Bash script to manage system users.
 - Delete an existing user
 - List all users
 
+- 
+## Project Structure
+
+│
+├── user_management.sh   # Main script
+├── README.md            # Project documentation
+
 ## Operations
 - Create user using `useradd`
 - Delete user using `userdel`
